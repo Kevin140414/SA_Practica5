@@ -34,3 +34,8 @@ $ apt-get install npm
 $ php cliente.php
 $ npm start
 ```
+# Construcción de artefactos
+- Al ejecutar el siguiente comando se genera una carpeta llamada 'dist', la cual contiene los .tar.gz de cada artefacto de la aplicación.  
+```sh
+$ sh build.sh
+```
