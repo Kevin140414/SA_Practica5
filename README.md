@@ -1,6 +1,10 @@
 # Practica 7 - Software Avanzado
 Repositorio de artefactos: https://github.com/Kevin140414/Practica7SA_Artefactos
 
+En esta practica se configuro Jenkins para que se encargara de cada vez que se realice un push
+este sea actualizado en el servidor de jenkins, realice las prebas unitarias y el escaneo de estandar de codigo (utilizando para ello standard de nodejs)
+y por ultimo construya los artefactos y realice un push con los mismos hacia el repositorio mostrado anteriormente.enerados.
+
 Captura del proceso:
 <p align="center"> <img src="captura.png"/> </p>
 
