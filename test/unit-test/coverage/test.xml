@@ -1,0 +1,7 @@
+<testExecutions version="1">
+<file path="apiClienteTest.js">
+<testCase name="apiCliente: Cuando solicito pedido, reciben mi pedido" duration="15"/>
+<testCase name="apiCliente: Cuando verifico pedido, esta siendo repartido" duration="0"/>
+<testCase name="apiCliente: Cuando verifico reparto, mi pedido acaba de ser entregado" duration="0"/>
+</file>
+</testExecutions>
