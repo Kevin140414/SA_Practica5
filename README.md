@@ -1,5 +1,8 @@
 # Practica 7 - Software Avanzado
-Repositorio de artefactos:
+Repositorio de artefactos: https://github.com/Kevin140414/Practica7SA_Artefactos
+
+Captura del proceso:
+<p align="center"> <img src="captura.png" width="350"/> </p>
 
 #### Practica 6 - Software Avanzado
 Video:
