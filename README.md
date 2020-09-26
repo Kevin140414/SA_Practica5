@@ -1,4 +1,7 @@
-# Practica 5 - Software Avanzado
+# Practica 7 - Software Avanzado
+
+#### Practica 6 - Software Avanzado
+Video:
 
 ###### ESB
 El objetivo del ESB es mejorar y ayudar al crecimiento de un negocio.
