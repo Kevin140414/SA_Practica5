@@ -16,5 +16,8 @@
     "express": "^4.17.1",
     "node-datetime": "^2.1.2",
     "nodemon": "^2.0.4"
+  },
+  "devDependencies": {
+    "standard": "^14.3.4"
   }
 }
